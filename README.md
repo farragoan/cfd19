@@ -18,6 +18,8 @@ Currently, India is the world's largest democracy and as such, any solution shou
 
 # DESCRIPTION OF FRAMEWORK/PROTOCOL
 
+Diafenos stems from the greek _diafáneia_ meaning "transparent".
+
 Diafaneos relies on leveraging existing infrastructure and its own sidechains to use the available computing power efficiently while also increasing the number of nodes in the network. 
 
 The network will comprise of a main chain, and one sidechains for each constituency/political subdivision that needs to be monitored.
