@@ -10,6 +10,12 @@ The main issue with a realistic scalable blockchain system is to have scalabilit
 
 diafanocracy relies on leveraging existing infrastructure and its own sidechains to use the available computing power efficiently while also increasing the number of nodes in the network. 
 
+There will be a number of sidechains, one for each urban-hinterland complex, and a main blockchain.
+
 # HOW IT WORKS
 
-1. The area to be surveyed is already divided into political constituencies. Local schools or computer-heavy organisations in these constituencies will serve as polling booths. 
+1. The area to be surveyed is already divided into political constituencies. However, they would be grouped into "urban-hinterland complexes" centres about an engineering/scientific institution with large computing power. Each of these complexes would have their own sidechain that would record individual votes in small sized blocks, therefore allowing for a higher rate of addition to the sidechain.
+
+2. Local schools or computer-heavy organisations in these constituencies will serve as polling booths. Every voter card would have its unique hash, which would let them stay anonymous on the network.
+
+3. The votes from these polling booth will be fed into their sidechains. These sidechains would be working on 
